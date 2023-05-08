@@ -20,7 +20,7 @@
   <artifactId>actions-tutorial</artifactId>
               
   
-  
+
   
   
   <version>1.0-SNAPSHOT</version>
@@ -673,7 +673,7 @@
         
         
         
-        <!--
+      
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-assembly-plugin</artifactId>
@@ -699,7 +699,7 @@
                         </dependency>
                     </dependencies>
                 </plugin>
-                -->
+              
                                                         
         
         
@@ -976,6 +976,8 @@
         
         
         </plugin>
+        
+
                                                         
         
         
@@ -1685,7 +1687,7 @@
       
       
       <!-- Hot reloading with JRebel -->
-                                          
+                                         
       
       
       
